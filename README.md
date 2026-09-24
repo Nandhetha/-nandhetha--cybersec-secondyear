@@ -11,13 +11,14 @@ Task 2 – Wireshark Traffic Capture & Analysis:
 
 Captured and analyzed my own network traffic using Wireshark. Identified DNS, TCP, TLS and QUIC protocols and studied the TCP three-way handshake.
 
-
-GitHub : https://github.com/Nandhetha
-TryHackMe : https://tryhackme.com/welcome
-Hack The Box : https://account.hackthebox.com/onboarding
-
 Tools Used:
 
 - OWASP Juice Shop
 - Wireshark
 - GitHub
+
+
+GitHub : https://github.com/Nandhetha
+TryHackMe : https://tryhackme.com/welcome
+Hack The Box : https://account.hackthebox.com/onboarding
+
